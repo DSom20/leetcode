@@ -6,7 +6,7 @@
   
   2) Don't be afraid to assign variables/pointers inside a while loop...saves
   handling edge cases if when outside currentNode.next throws error because currentNode
-  is null...
+  is null... Essentially using a third pointer inside while loop
 
   3) Recursion: wow. Just try to remember what each stack has a reference to
 
